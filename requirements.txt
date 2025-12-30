@@ -1,0 +1,12 @@
+pandas
+numpy
+polygon-api-client
+scipy
+scikit-learn
+python-dotenv
+pyarrow
+matplotlib
+seaborn
+requests
+mplfinance
+plotly
